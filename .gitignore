@@ -1,0 +1,18 @@
+# git history/
+.history
+
+# --- Editor & History ---
+.history/             # VS Code Local History
+.vscode/              # Editor settings
+.idea/                # IntelliJ/PyCharm settings
+
+# --- OS System Files ---
+.DS_Store             # macOS
+Thumbs.db             # Windows
+*.swp                 # Vim temporary files
+
+# --- Hardware/ECAD Globals ---
+# Some tools dump files at the root of the repo regardless of where the project is
+*.log                 # Generic logs
+*.bak                 # Generic backups
+*.~*                  # Common temporary/lock file pattern
