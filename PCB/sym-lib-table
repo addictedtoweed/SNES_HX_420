@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SNES_Enhanement_Cartridge_v1.0") (type "Altium") (uri "${KIPRJMOD}/SNES_Enhanement_Cartridge_v1.0.SCHLIB") (options "") (descr ""))
+)
